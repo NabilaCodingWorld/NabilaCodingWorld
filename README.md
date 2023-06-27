@@ -2,7 +2,7 @@
 #### I am a Web Developer
 ![I am a Web Developer](https://i.ibb.co/LkLCq8g/IMG-20201204-150507.png)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NabilaCodingWorld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nabila Musfiq/)  
+ 
 
 I specialize in front-end development, crafting beautiful and responsive user interfaces using the latest web technologies. My skills include HTML5, CSS3, JavaScript, and modern frameworks like React.js and Vue.js. I'm also experienced in building accessible and SEO-friendly websites.
 
