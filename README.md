@@ -4,7 +4,7 @@
 
 I specialize in front-end development, crafting beautiful and responsive user interfaces using the latest web technologies. My skills include HTML5, CSS3, JavaScript, and modern frameworks like React.js and Vue.js. I'm also experienced in building accessible and SEO-friendly websites.
 
-Skills:  REACT / JS / HTML / CSS/BOOTSTRAP/TAILWIND
+Skills:  HTML | HTML5 | CSS
 
 - 🔭 I’m currently working on Self Employment 
 - 🌱 I’m currently learning Next.JS 
